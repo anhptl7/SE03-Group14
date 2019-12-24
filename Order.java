@@ -4,7 +4,7 @@ public class Order {
 	private int mahoadon;
 	private String tenthuoc;
 	private int sl;
-	private int tongtien;
+	private float tongtien;
 	
 	public Order() {
 	}
@@ -41,11 +41,11 @@ public class Order {
 		this.sl = sl;
 	}
 
-	public int getTongtien() {
+	public float getTongtien() {
 		return tongtien;
 	}
 
-	public void setTongtien(int tongtien) {
+	public void setTongtieng(float tongtien) {
 		this.tongtien = tongtien;
 	}
 

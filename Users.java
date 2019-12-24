@@ -1,7 +1,7 @@
 package OBJ;
 
 public class Users {
-	private String id;
+	private int id;
 	private String username;
 	private String password;
 	private String email;
@@ -12,7 +12,7 @@ public class Users {
 		
 	}
 
-	public Users(String id, String username, String password, String email, String fullname, String role) {
+	public Users(int id, String username, String password, String email, String fullname, String role) {
 		super();
 		this.id = id;
 		this.username = username;
@@ -22,11 +22,11 @@ public class Users {
 		this.role = role;
 	}
 
-	public String getId() {
+	public int getId() {
 		return id;
 	}
 
-	public void setId(String id) {
+	public void setId(int id) {
 		this.id = id;
 	}
 

@@ -8,5 +8,8 @@
 - Nhân viên bán hàng có thể check kho, thanh toán, in hóa đơn cho khách.
 ## 2. Công nghệ & Công cụ 
 - Java/ Java swing
-- MySQl
+- phpMyAdmin
 ## 3. Hướng dẫn sử dụng và cài đặt
+1. Tải database và thêm vào phpMyadmin
+2. Tải mysql-connector-java-5.1.38.jar và add vào project
+3. Tạo project sau đó tải các forder DAO, DBConnection, GUI, Images, Main, OBJ và add vào project và chạy

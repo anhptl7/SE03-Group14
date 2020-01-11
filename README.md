@@ -10,6 +10,12 @@
 - Quản lý có thể: thêm/sửa/xóa thông tin loại thuốc/thuốc.
 - Quản lý có thể xem kho, check kho.
 - Nhân viên bán hàng có thể check kho, thanh toán, in hóa đơn cho khách.
+- Khách hàng có thể thanh toán nhiều hóa đơn.
+- Khách hàng chỉ có thể mua khi còn thuốc.
+- Khách hàng có thể hủy đơn thuốc nếu chưa in hóa đơn.
+- Nhân viên có thể sửa hóa đơn nếu sai trước khi in.
+- Tại một điểm có thể có nhiều khách hàng mua.
+- Mỗi lần thanh toán, nhân viên sẽ in hóa đơn cho lần thanh toán đó bao gồm các thông tin: mã hóa đơn, tên thuốc, số lượng, đơn giá, tổng tiền, số tiền thanh toán.
 ## 2. Công nghệ & Công cụ 
 - Java/ Java swing
 - phpMyAdmin

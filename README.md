@@ -2,7 +2,9 @@
 ## 1. Goals & Objective
 ### 1.1: Đề tài 
 - Quản lý hiệu thuốc
-### 1.2: Objective
+### 1.2: Goals
+- Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có quản lý (chủ) hiệu thuốc, nhân viên bán hàng được sử dụng để dễ dàng quản lý kho hàng, bán hàng, quản lí hóa đơn, mã thuốc một cách dễ dàng.
+### 1.3: Objective
 - Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có quản lý (chủ) hiệu thuốc, nhân viên bán hàng được sử dụng để dễ dàng quản lý kho hàng, bán hàng, quản lí hóa đơn, mã thuốc một cách dễ dàng.
 - Thông tin về thuốc bao gồm: mã thuốc, số lượng, đơn vị, giá tiền.
 - Thông tin về người dùng bao gồm: mã người dùng, họ tên, email, số điện thoại, tên đăng nhập, mật khẩu.
